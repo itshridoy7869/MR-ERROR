@@ -1,3 +1,3 @@
 import os
 os.system('git pull')
-import error32
+import sek_enc
